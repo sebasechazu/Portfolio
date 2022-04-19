@@ -2,11 +2,12 @@
 h1{
     text-align: center;
     margin-top: 200px;
-    color: #fff;
+    color:#576E9A;
 }
 
-.portada {
-  background: black;
-  height: 100vh;
-  background-size: cover;
+.menu {
+     background-color: #b6bdd1;
+     height: 100vh;
+     background-size: cover
+
 }
